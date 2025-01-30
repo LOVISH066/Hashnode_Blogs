@@ -1,8 +1,11 @@
 ---
 title: "🏗️ The Foundations of Data-Driven Thinking"
+seoTitle: "Data-Driven Thinking Foundations"
+seoDescription: "Learn data-driven decision essentials: data types, collection methods, and strategies for product success"
 datePublished: Tue Jan 14 2025 17:48:23 GMT+0000 (Coordinated Universal Time)
 cuid: cm5wrnvue000c09kze6r65cnb
 slug: the-foundations-of-data-driven-thinking
+tags: ai, cloud, productivity, programming-blogs, aws, java, data-science, databases, data-structures, developer, cloud-computing, devops, mern, ml, devops-articles
 
 ---
 
