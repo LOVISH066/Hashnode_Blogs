@@ -1,8 +1,11 @@
 ---
 title: "Navigating Problem Space : A Guide for PMs🕹️"
+seoTitle: "Guide for Product Managers in Problem Solving"
+seoDescription: "A guide for product managers on effective problem solving, defining user needs, and aligning business goals to deliver impactful solutions in India"
 datePublished: Tue Jan 14 2025 17:46:50 GMT+0000 (Coordinated Universal Time)
 cuid: cm5wrlwed000309mbb9x8bozy
 slug: navigating-problem-space-a-guide-for-pms
+tags: app-development, productivity, programming-blogs, aws, programming, web-development, webdev, developer, coding, devops, programming-languages, product-management, codenewbies, cybersecurity-1, programming-tips
 
 ---
 
