@@ -1,8 +1,11 @@
 ---
 title: "What Is Data-Driven Thinking?"
+seoTitle: "Understanding Data-Driven Thinking"
+seoDescription: "Harness data-driven insights and analytics to enhance decision-making, solve problems, and elevate your strategic advantage"
 datePublished: Tue Jan 14 2025 17:47:39 GMT+0000 (Coordinated Universal Time)
 cuid: cm5wrmxqf000b09kz1nsh0i29
 slug: what-is-data-driven-thinking
+tags: app-development, ai, productivity, programming-blogs, aws, programming, data-science, web-development, databases, webdev, full-stack, coding, deep-learning, ml, product-management
 
 ---
 
