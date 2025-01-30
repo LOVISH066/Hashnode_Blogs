@@ -1,8 +1,11 @@
 ---
 title: "🛠️ Decision-Making Frameworks for Product Managers"
+seoTitle: "Product Managers' Decision-Making Frameworks"
+seoDescription: "Use A/B testing, RICE scoring, and the Kano model for data-driven, structured product management decisions"
 datePublished: Tue Jan 14 2025 17:46:05 GMT+0000 (Coordinated Universal Time)
 cuid: cm5wrkx90000p09jse2wg12t0
 slug: decision-making-frameworks-for-product-managers
+tags: app-development, productivity, programming-blogs, aws, programming, web-development, computer-science, developer, coding, devops, hacking, product-management, codenewbies, cybersecurity-1, programming-tips
 
 ---
 
