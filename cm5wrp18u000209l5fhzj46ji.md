@@ -1,8 +1,11 @@
 ---
 title: "🤖 AI vs ML vs DL vs DS ✨"
+seoTitle: "AI, ML, DL, DS: Key Differences Explained"
+seoDescription: "A beginner's guide to AI, ML, DL, and DS: Understand the buzzwords and core concepts in artificial intelligence and data science"
 datePublished: Tue Jan 14 2025 17:49:17 GMT+0000 (Coordinated Universal Time)
 cuid: cm5wrp18u000209l5fhzj46ji
 slug: ai-vs-ml-vs-dl-vs-ds
+tags: ai, artificial-intelligence, programming-blogs, programming, technology, data-science, machine-learning, computer-science, robotics, coding, future, deep-learning, ml, llm, chatgpt
 
 ---
 
